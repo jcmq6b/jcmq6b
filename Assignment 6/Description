@@ -1,0 +1,9 @@
+Assignment 6: Deployment Focus
+Screenshot of SSH inside EC2 Instance
+Screenshot inside virtualenv
+Screenshot of python and node version
+Screenshot after:
+sudo service postgresql start
+sudo su - postgres
+psql
+Navigate to augur folder. Screenshot after cat augur.err (Only the top)
