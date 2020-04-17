@@ -11,10 +11,10 @@ By tracking which contributors are actively adding new content to a repository a
 ## Implementation
 By tracking the commits of a repository, we can see the exact contributor that made the commit and the date. We can then track how many contributors there are in total, and which ones have made commits recently. Each contributor will start as active but, if a contributor has not made a commit in a given amount of time, they will be marked as inactive. The company itself could set the amount of time before the contributor is marked as inactive, or it could just be a standard set time period for all repositories.
 
-###Filters (optional)
+### Filters (optional)
 The contributors’ ID, the time-span for inactivity (how long a contributor must not add a new commit to be considered inactive), (possibly) lines of code (to see the amount contributed)
 
-###Visualizations (optional)
+### Visualizations (optional)
 This metric can be represented in a simple table show the names of the contributors, their active/inactive status, and the date of their last commit (with the number of lines of code, optional). 
 
 ### Tools Providing the Metric
