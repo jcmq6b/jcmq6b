@@ -6,7 +6,7 @@ Question: What is the current number of active contributors on a project?
 This metric is meant to be used on the repository of an open source project by tracking the contributions(reviews, comments, edits, commits, pull requests) by contributors over a time period.
 
 ## Objectives	
-By tracking which contributors are actively adding new content to a repository a company is more accurately able to access the health of the given project. Retention requires an inflow of new contributors as previously active contributors leave.
+By tracking which contributors are actively adding new content to a repository a company is more accurately able to access the health  and contributor retention of the given project. Retention requires an inflow of new contributors as previously active contributors leave.
 
 ## Implementation
 - By tracking the changes of a repository, we can see each contribution and its contributor with the date. We can then track how many contributors there are in total, and which ones have made contributions recently. 
