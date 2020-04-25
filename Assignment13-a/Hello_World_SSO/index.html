@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Hello World SSO</title>
+        <script src="jslibs/jquery-2.1.4.min.js"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    </head>
+    <style>
+        #main_wrapper{
+            text-align: center;
+            margin: auto;
+            font-family: 'Open Sans', sans-serif;
+        }
+    </style>
+    <body>
+        <div id="main_wrapper">
+            <h1>Hello World</h1>
+            <p>Please login!</p>
+            <button id="btn-login" disabled="true" onclick="login()">Log in</button>
+            <button id="btn-logout" disabled="true" onclick="logout()">Log out</button>
+        </div>
+    </body>
+    <script src="https://cdn.auth0.com/js/auth0-spa-js/1.7/auth0-spa-js.production.js"></script>
+    <script src="jslibs/app.js"></script>
+</html>
