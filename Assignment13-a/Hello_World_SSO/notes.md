@@ -1,2 +1,3 @@
-Right now I've got a really basic wepage hosted on http://localhost:3000/ (when my server is running)
-I havn't gotten one of my functions to work, so both the login and logout buttons are locked for the time being
+- Right now I've got a really basic wepage hosted on http://localhost:3000/ (when my server is running)
+- I havn't gotten one of my functions to work, so both the login and logout buttons are locked for the time being
+- Also requires that node be installed in the same directory (I didnt add that to this repository since its too big)
