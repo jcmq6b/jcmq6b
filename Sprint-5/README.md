@@ -1,4 +1,4 @@
-# NOTE: My SSO login portion is still locked due to a bug I'm currently trying to fix so it won't be able to take you to the right webpage so instead I just made the endpoint webpage my index.html on my server that way it can be viewed while I fix the login page.
+- NOTE: My SSO login portion is still locked due to a bug I'm currently trying to fix so it won't be able to take you to the right webpage so instead I just made the endpoint webpage my index.html on my server that way it can be viewed while I fix the login page.
 
 - I used AUTH0 for my SSO resource.
 - To view the endpoint webpage go to the link: http://ec2-3-83-96-252.compute-1.amazonaws.com/SSOLoginJSONEditor/
