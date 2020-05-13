@@ -1,5 +1,5 @@
 ### Whoops
--I think I might have submitted the wrong thing. It said 'Submit the commit of your first iteration from your github repository under the assginment'
+- I think I might have submitted the wrong thing. It said 'Submit the commit of your first iteration from your github repository under the assginment'
 - I'm not sure if that meant create a new assignment with your first iteration files, or if it meant just resubmit the link to the first iteration of your project....
 
 - Either way here is the first iteration of my SSO project: https://github.com/jcmq6b/jcmq6b/tree/master/Assignment13-a
