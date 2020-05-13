@@ -7,5 +7,6 @@
 
 ### Current Revision:
 - The new link is: http://ec2-3-83-96-252.compute-1.amazonaws.com/SSOLoginJSONEditor/
+- To test it: username = 'jcmq6b@mail.missouri.edu'  password = '1Password'
 - My website is currently able to support sign-ons and remebers the user so they dont need to sign on again
 - However, my logout isn't working, so when the user trys to go back to the default page they are left on a blank screen.
