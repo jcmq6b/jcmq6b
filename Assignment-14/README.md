@@ -1,7 +1,7 @@
 # How To Run
 Note: I couldn't figure out how to run the authentication portion from a non-local host (so sorry in advance since running it requires downloading my SSO project folder)
 
-### Starting the server (it runs on localhost:3000)
+### Starting the server (it runs on localhost:3000 (you can probably run the server another way, but this is how I did it))
 - Download the Auth0SSO folder
 - Run terminal or command prompt from the Auth0SSO folder
 - run the command: 'php -S localhost:3000'
